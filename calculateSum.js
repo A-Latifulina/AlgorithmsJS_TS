@@ -6,5 +6,4 @@ function sumNumbers(numbers) {
 }
 
 console.log(sumNumbers([3,10,50]));
-
 //Constant time complexity not possible, only linear, 0(n)
