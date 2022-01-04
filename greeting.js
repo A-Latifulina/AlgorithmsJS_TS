@@ -1,9 +1,10 @@
 //time based greeting 
 
-var today = new Date();
-var hourNow = today.getHours();
+var today = new Date();                 //create a new date object
+var hourNow = today.getHours();         //find the current hour
 var greeting;
 
+//display the appropriate greeting based on the current time
 if (hourNow > 18) {
         greeting = 'Good evening';
 }   else if (hourNow > 12) {
