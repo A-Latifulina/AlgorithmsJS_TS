@@ -1,4 +1,4 @@
-//an algorith takes an array of numbers as input and calculates the sum of those numbers
+//an algorithm takes an array of numbers as input and calculates the sum of those numbers
 //define time complexity + determine lowest possible time complexity
 
 function sumNumbers(numbers) {
